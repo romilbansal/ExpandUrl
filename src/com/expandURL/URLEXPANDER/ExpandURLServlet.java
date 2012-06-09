@@ -1,3 +1,7 @@
+/*
+ * Author : Romil Bansal
+ * Example : http://www.urltoshorturl.appspot.com/expand?url=http://bit.ly/Lfj4kk 
+ */
 package com.expandURL.URLEXPANDER;
 
 import java.io.IOException;
